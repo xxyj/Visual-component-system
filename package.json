@@ -1,0 +1,13 @@
+{
+  "name": "Visual-component-system",
+  "version": "1.0.0",
+  "description": "可视化组件库",
+  "main": "index.js",
+  "repository": "https://github.com/xxyj/Visual-component-system.git",
+  "author": "hzxiongxu",
+  "license": "MIT",
+  "dependencies": {
+    "jr-ui": "^0.0.6",
+    "regularjs": "0.4.3"
+  }
+}
